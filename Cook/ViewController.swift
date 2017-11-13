@@ -26,7 +26,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
     }
     
     @IBAction func setDefaultLabelText(_ sender: Any) {
-        titleLabel.text = "Hello world"
+        
     }
     
     func textFieldDidEndEditing(_ textField: UITextField) {
